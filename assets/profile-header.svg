@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Adi Yudhanegara — Design. Build. Scale.</title>
+  <desc id="desc">A dark graphite banner with five connected nodes for the AYDO organizations: projects, works, skills, research and tools.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2c2f35" stroke-width="0.7"/>
+    </pattern>
+    <linearGradient id="shade" x1="0" x2="1">
+      <stop stop-color="#131417"/>
+      <stop offset="1" stop-color="#1d1f24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="12" fill="url(#shade)"/>
+  <rect x="700" width="580" height="320" fill="url(#grid)" opacity="0.65"/>
+  <path d="M24 24H1256V296H24Z" fill="none" stroke="#373a41"/>
+  <path d="M24 64V24H64M1216 296H1256V256" fill="none" stroke="#e8e6e1" stroke-width="2"/>
+  <g font-family="'Segoe UI',Helvetica,sans-serif">
+    <rect x="56" y="58" width="8" height="8" fill="#e8e6e1"/>
+    <text x="78" y="67" font-size="13" font-weight="600" letter-spacing="2.5" fill="#c9c6bf">ADI YUDHANEGARA / BALI, INDONESIA</text>
+    <text x="55" y="141" font-size="51" font-weight="650" letter-spacing="-1.8" fill="#f4f2ee">Design. Build.</text>
+    <text x="55" y="199" font-size="51" font-weight="650" letter-spacing="-1.8" fill="#a9a6a0">Scale.</text>
+    <text x="58" y="252" font-size="16" fill="#a9a6a0">Full-stack developer · Ruby on Rails, Laravel and Docker</text>
+  </g>
+  <g fill="none" stroke="#54575e" stroke-width="2">
+    <path d="M748 160H1164"/>
+    <path d="M1164 179V230H748V179" stroke-dasharray="4 6" opacity="0.7"/>
+  </g>
+  <g font-family="'Segoe UI',Helvetica,sans-serif" font-size="12" letter-spacing="1.2" text-anchor="middle">
+    <g transform="translate(748 160)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#2a2520" stroke="#e3b07a"/>
+      <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#e3b07a"/>
+      <text y="-39" fill="#e3b07a">PROJECTS</text>
+    </g>
+    <g transform="translate(852 160)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#2a2129" stroke="#d49ac8"/>
+      <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#d49ac8"/>
+      <text y="-39" fill="#d49ac8">WORKS</text>
+    </g>
+    <g transform="translate(956 160)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#272821" stroke="#d5d787"/>
+      <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#d5d787"/>
+      <text y="-39" fill="#d5d787">SKILLS</text>
+    </g>
+    <g transform="translate(1060 160)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#1f2826" stroke="#83d0c5"/>
+      <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#83d0c5"/>
+      <text y="-39" fill="#83d0c5">RESEARCH</text>
+    </g>
+    <g transform="translate(1164 160)">
+      <rect x="-19" y="-19" width="38" height="38" rx="8" fill="#20252d" stroke="#8fb4e3"/>
+      <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#8fb4e3"/>
+      <text y="-39" fill="#8fb4e3">TOOLS</text>
+    </g>
+    <text x="956" y="262" font-size="11" letter-spacing="2.5" fill="#7d7a74">AYDO ORGANIZATIONS</text>
+  </g>
+</svg>
